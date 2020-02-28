@@ -1,0 +1,38 @@
+<annotation>
+  <folder>input</folder>
+  <filename>images (5).jpg</filename>
+  <path>C:\YOLO\Yolo-Training-GoogleColab-master\data_converstion\main\input\images (5).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>275</width>
+    <height>183</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>LeftShoulder</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>201</xmin>
+      <ymin>51</ymin>
+      <xmax>270</xmax>
+      <ymax>155</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Head</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>126</xmin>
+      <ymin>4</ymin>
+      <xmax>193</xmax>
+      <ymax>67</ymax>
+    </bndbox>
+  </object>
+</annotation>

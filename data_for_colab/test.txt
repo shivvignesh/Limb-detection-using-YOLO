@@ -1,0 +1,40 @@
+C:/YOLO/Yolo-Training-GoogleColab-master/data/aa.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/ak.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/as.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/bb.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/bm.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/bw.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/ci.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/cs.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/download.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/images (1).jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_002 (2).jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_009.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_017.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_024.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_034 (2).jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_041.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_050.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_056.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_062 (2).jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_069.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/img_112.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/mj.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/mz.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/ns.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-1038343.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-1183266.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-1366997.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-1478106.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-1638051.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-1841903.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-1984632.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-327253.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-458771.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-789549.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/pexels-photo-963697.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/scene00051.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/scene00151.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/scene00251.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/scene00351.jpg
+C:/YOLO/Yolo-Training-GoogleColab-master/data/scene00451.jpg
