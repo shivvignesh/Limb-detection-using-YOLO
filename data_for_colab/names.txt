@@ -1,0 +1,13 @@
+Head
+RightWrist
+RightElbow
+RightShoulder
+LeftShoulder
+LeftElbow
+LeftWrist
+Hip
+Torso
+RightKnee
+RightAnkle
+LeftKnee
+LeftAnkle
