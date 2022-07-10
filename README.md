@@ -8,7 +8,7 @@
 
  There are many implementations of YOLOv3 network, the most famous of them all is the work of [AlexeyAB] (https://github.com/AlexeyAB/darknet) Darknet Framework. 
  
- (Hey! if you are not familiar with YOLO, ![here](https://medium.com/analytics-vidhya/yolo-you-look-only-once-9af63cb143b7) is a blog on it written by me
+ (Hey! if you are not familiar with YOLO, [here](https://medium.com/analytics-vidhya/yolo-you-look-only-once-9af63cb143b7) is a blog on it written by me
 
 ## The project pipeline can be explained in 3 different steps.
 
